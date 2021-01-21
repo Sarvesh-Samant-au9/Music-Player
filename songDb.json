@@ -1,0 +1,131 @@
+{
+  "mainSongs":{
+    "ENG": [
+      {
+        "name": "Bialando",
+        "cover":
+        "https://chillhop.com/wp-content/uploads/2020/07/ef95e219a44869318b7806e9f0f794a1f9c451e4-1024x1024.jpg",
+        "artist": "Enrique Igelasis",
+        "audio":
+        "https://media.hungama.com/c/4/2c8/512/36653656/36653656_128.mp3?1gUAEcpxtxUlbsh570rxf-UBTjarReOq58aZZIy3u5HzlnvTmDYSXeyffUU7JL8qP2r4wtrDWRTo8CgcloyHA7M5QRcKpdx0FRV6tkiHMqPEYXSyohAlWThIxpYYhUVbAJanfQ",
+        "color": ["#205950", "#2ab3bf"],
+        "active": true,
+        "id": "123abc"
+      },
+      {
+        "name": "Mood",
+        "cover":
+        "https://chillhop.com/wp-content/uploads/2020/07/ef95e219a44869318b7806e9f0f794a1f9c451e4-1024x1024.jpg",
+        "artist": "24K Inn",
+        "audio":
+        "https://media.hungama.com/c/4/4c2/9af/57858757/57858757_128.mp3?A5lUafhwLW1xe0To2GkIX3vPmpYVYEFNGYaJzaYKsx0GofoBOPBJIlDLOlRi_A6WqzAz4pjJB8H6frjDmUhPe8D1ikzqnPWazePU_vukp4vQ_MFX_mvgarym2bauVbFJpx3M7A",
+        "color": ["#205950", "#2ab3bf"],
+        "active": "false",
+        "id": "123abd"
+      },
+      {
+        "name": "Not Afraid",
+        "cover":
+          "https://chillhop.com/wp-content/uploads/2020/07/ef95e219a44869318b7806e9f0f794a1f9c451e4-1024x1024.jpg",
+        "artist": "Eminem",
+        "audio":
+          "https://media.hungama.com/c/4/7ef/545/377762/377762_128.mp3?_Y8sqRjBYfluO9oV8oAQ0r8qM610V-I1nHCI9ektVNTJoOOhpWAZLoVkPxgE_U8bWHuZsH7SVhI_whvrtcDIRvla32lLWn3ngsGkzINJkXvkmraO_NMLEjJkzFu6Nqhn",
+        "color": ["#CD607D", "#c94043"],
+        "active":false,
+        "id": "123abe"
+      },
+      {
+      "name": "Somebody",
+     "cover":
+        "https://chillhop.com/wp-content/uploads/2020/07/ff35dede32321a8aa0953809812941bcf8a6bd35-1024x1024.jpg",
+      "artist": "Kygo",
+      "audio":
+        "https://media.hungama.com/c/4/f11/35d/53522077/53522077_128.mp3?XMlaRJ14KzIvQvZPjmUXV9RxnTCO75HwwHYq-aCKW-psDszgxiP19dYopbiHfl-SB7i-BRvruKO_tlvO1JnWJ7bz-VgDXeKYYqyofziU3rzRgHZonXslPlDEgH6xOUw2S61eyA",
+      "color": ["#EF8EA9", "#ab417f"],
+      "active": false,
+      "id": "123abf"
+    },
+    
+    {
+      "name": "I dont wanna Live forever",
+      "cover":
+        "https://www.setaswall.com/wp-content/uploads/2019/03/Ball-Long-Exposure-Glow-Wallpaper-1024x1024.jpg",
+      "artist": "Zayn Malik, Taylor Swift",
+      "audio":
+        "https://media.hungama.com/c/4/2d9/e5e/23275263/23275263_128.mp3?uEc5E-VWBBoZ90NUtmqZExLRT8cfo5VJzfZKG92P5wwOtgg8pyKsxvE8l-pCCJjODuEGxAwg_ltCCWFQCTdDclJ9VrQA-OLB0-pVpatypNHPJnc7y9wMPEo-WrzC7A5rsCj7lg",
+      "color": ["#CD607D", "#c94043"],
+      "active": false,
+      "id": "123abg"
+
+    },
+    {
+      "name" : "Hot Stuff" ,
+      "cover":
+        "https://www.setaswall.com/wp-content/uploads/2019/03/Ball-Glass-Sunset-Wallpaper-1024x1024.jpg",
+      "artist": "Kygo",
+      "audio":"https://media.hungama.com/c/4/dd4/ea6/57773811/57773811_128.mp3?14SZidfUKDRA6xQKCi0EfND-Kc34sdnIhrZ6RpxlJ0f7kWspkoNllIEbAZ-mPDqI0zrNmBobM3bbHOOEQWbGOXmQ4LgXo9UTmRQ1mBuvIBQzf2T-BtKHKWcgzhxQeKrzpB_MCA",
+      "color": ["#205950", "#2ab3bf"],   
+      "active": false,
+      "id": "123abh"
+    }
+    ], 
+    "HIN":[
+      {
+        "name": "Pehla Pyaar",
+        "cover":
+          "https://www.setaswall.com/wp-content/uploads/2019/03/Autumn-Leaf-Drops-Wallpaper-1024x1024.jpg",
+        "artist" :"Amir Khan",
+        "audio":
+          "http://download02.saregama.com/secure/174228/mp4/0/INH109235800_32_a.mp4?e=1610828360&h=279c2a7074fb5f5d32c731601abb7be7",
+        "color": ["#FF69B4", "#b19cd9"],
+        "active": true,
+        "id": "123abi"
+      }, 
+      {
+      "name": "Khalbali",
+      "cover":
+        "https://chillhop.com/wp-content/uploads/2020/07/ff35dede32321a8aa0953809812941bcf8a6bd35-1024x1024.jpg",
+      "artist": "AR. Rahman",
+      "audio":
+        "https://media.hungama.com/c/4/46e/07e/41142308/41142308_128.mp3?9QPos43_IKH0E4rVMN5XcdILQUusaCzJuhWywprNjy3JDecOL36Zn7Y51rNQrHDFwe6foCs9WeCdH8DIuZFZfzz2BYkXskUsilEHYFWx8MTos0-tg55g0_w0MlDqQFNq4STvuA",
+      "color": ["#EF8EA9", "#ab417f"],
+      "active": false,
+      "id": "123abj"
+    },
+    {
+      "name":"Udd Gaye..",
+      "cover":
+        "https://images.hungama.com/c/1/493/b3d/32253577/32253577_300x300.jpg",
+      "artist":"Ritviz",
+      "audio":
+        "https://media.hungama.com/c/4/12e/e57/32253578/32253578_128.mp3?R2W11eWSqLfiw8hX7GoCkp6IschvHjp9mrrM6sYJ8vsVw0QmrJgWoORho20OQjAccOBR5rETROPJR1jtVk6LJ4AcIyyk-PXR4k15vyv5mEsW_g8PxDby4AuTtl53IFJPcL2mAw",
+      "color": ["#942637", "#222421"],
+      "active": false,
+      "id": "123abk"
+    },
+    {
+      "name":"Tumhe Jeene Ka",
+      "cover":
+        "https://images.hungama.com/c/1/696/3fb/54693340/54693340_300x300.jpg",
+      "artist":"AR Rahman",
+      "audio":"https://media.hungama.com/c/4/5b8/083/54693343/54693343_128.mp3?B8T6Tb_3rzmIS6WF6DesI4u6Jnz8Q4vMGCdXP10hG7YYN7igX5341JnJHf2BbDdsNtXNHj-0heDVKb7QtdStzH-RVtf11vKmEHBZWjbip419K9-n8AvR0RgXYW91bcGU1dBBHQ",
+      "color": ["#8F221E", "#E7D283"],
+      "active": false,
+      "id": "123abl"
+    }
+  ],
+  "TAM":[
+    {
+      "name": "Rowdy Baby",
+      "cover":
+        "https://images.hungama.com/c/1/b80/889/42534427/42534427_300x300.jpg",
+      "artist": "Dhanush (feat. Dhee)",
+      "audio":
+        "https://media.hungama.com/c/4/b80/889/42534427/42534427_128.mp3?IbnD3hb7Z1KNfmMpuvpg_YenO_uTVzWduHbFRCrac5q-M2rP3otXss6PLYnx4TLlGz8ZnUL34PJRyRN8Re138uiyrGqxpNEMo-d1eOkIUOOvmR8D40dAzA0XQfP1FM3-pmouBg",
+      "color": ["#E09B15", "#A30505"],
+      "active": false,
+      "id": "123abm"
+    }
+  ]
+  }
+}
