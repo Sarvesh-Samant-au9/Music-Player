@@ -3,9 +3,11 @@
   padding: 0;
   margin: 0;
 }
+body {
+  background-color: rgb(240, 253, 255);
+}
 
 .main__page {
-  background-color: rgb(240, 253, 255);
   background: linear-gradient(to right bottom, #0b1522, #181818);
   min-height: 100vh;
   min-width: 100vw;

@@ -130,9 +130,13 @@ const Player = ({
           icon={faStepForward}
         />
       </div>
-      <div style={{position:"absolute", right:20, bottom: 30 }}>
+      <div style={{ position: "relative", width: "100%", height:"10vh" }}>
         <Link to="/">
-          <button type="button" className="btn btn-outline-danger">
+          <button
+            type="button"
+            className="btn btn-outline-danger"
+            style={{ position: "absolute", right: 20, bottom: 30 }}
+          >
             Return Home
           </button>
         </Link>

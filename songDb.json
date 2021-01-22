@@ -72,9 +72,8 @@
     "HIN":[
       {
         "name": "Pehla Pyaar",
-        "cover":
-          "https://www.setaswall.com/wp-content/uploads/2019/03/Autumn-Leaf-Drops-Wallpaper-1024x1024.jpg",
-        "artist" :"Amir Khan",
+        "cover":"https://images.hungama.com/c/1/a90/ba6/1935204/1935204_300x300.jpg",
+        "artist" :"Udit Narayan, Sadhana",
         "audio":
           "http://download02.saregama.com/secure/174228/mp4/0/INH109235800_32_a.mp4?e=1610828360&h=279c2a7074fb5f5d32c731601abb7be7",
         "color": ["#FF69B4", "#b19cd9"],
@@ -84,11 +83,11 @@
       {
       "name": "Khalbali",
       "cover":
-        "https://chillhop.com/wp-content/uploads/2020/07/ff35dede32321a8aa0953809812941bcf8a6bd35-1024x1024.jpg",
-      "artist": "AR. Rahman",
+        "https://images.hungama.com/c/1/550/f5f/4025975/4025975_300x300.jpg",
+      "artist": "AR. Rahman, Nacim",
       "audio":
         "https://media.hungama.com/c/4/46e/07e/41142308/41142308_128.mp3?9QPos43_IKH0E4rVMN5XcdILQUusaCzJuhWywprNjy3JDecOL36Zn7Y51rNQrHDFwe6foCs9WeCdH8DIuZFZfzz2BYkXskUsilEHYFWx8MTos0-tg55g0_w0MlDqQFNq4STvuA",
-      "color": ["#EF8EA9", "#ab417f"],
+      "color": ["#3E476F", "#FAFEFA"],
       "active": false,
       "id": "123abj"
     },
@@ -96,7 +95,7 @@
       "name":"Udd Gaye..",
       "cover":
         "https://images.hungama.com/c/1/493/b3d/32253577/32253577_300x300.jpg",
-      "artist":"Ritviz",
+      "artist":"Ritviz, Bacardi-Songs",
       "audio":
         "https://media.hungama.com/c/4/12e/e57/32253578/32253578_128.mp3?R2W11eWSqLfiw8hX7GoCkp6IschvHjp9mrrM6sYJ8vsVw0QmrJgWoORho20OQjAccOBR5rETROPJR1jtVk6LJ4AcIyyk-PXR4k15vyv5mEsW_g8PxDby4AuTtl53IFJPcL2mAw",
       "color": ["#942637", "#222421"],
@@ -112,6 +111,16 @@
       "color": ["#8F221E", "#E7D283"],
       "active": false,
       "id": "123abl"
+    },
+    {
+      "name":"Tujhe Dekha",
+      "cover":
+        "https://images.hungama.com/c/1/d84/dc9/1821194/1821194_300x300.jpg",
+      "artist":"Kumar Sanu, Lata Mangeshkar",
+      "audio":"http://download02.saregama.com/secure/174228/mp4/0/INH109537390_32_a.mp4?e=1611234962&h=6f75b00031f3aa6ea21d027ac2506181",
+      "color": ["#F8ED02", "#FB6051"],
+      "active": false,
+      "id": "123abm"
     }
   ],
   "TAM":[
@@ -124,7 +133,7 @@
         "https://media.hungama.com/c/4/b80/889/42534427/42534427_128.mp3?IbnD3hb7Z1KNfmMpuvpg_YenO_uTVzWduHbFRCrac5q-M2rP3otXss6PLYnx4TLlGz8ZnUL34PJRyRN8Re138uiyrGqxpNEMo-d1eOkIUOOvmR8D40dAzA0XQfP1FM3-pmouBg",
       "color": ["#E09B15", "#A30505"],
       "active": false,
-      "id": "123abm"
+      "id": "123abn"
     }
   ]
   }

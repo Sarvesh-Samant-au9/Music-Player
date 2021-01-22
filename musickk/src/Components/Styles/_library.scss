@@ -27,7 +27,8 @@
   }
   &__song {
     display: flex;
-    align-items: center;
+    // align-items: center;
+    // justify-content: center;
     // flex-direction: column;
     padding: 1rem 2rem;
     cursor: pointer;
@@ -39,11 +40,20 @@
       background-color: rgb(206, 206, 255);
     }
     &--description {
-      padding-left: 1rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      // border: 2px solid red;
+      width: 100%;
+      align-items: center;
       h3 {
-        font-size: 1.2rem;
+        // align-self: start;
+        font-size: 1rem;
       }
       h4 {
+        // border: 1px solid pink;
+        // padding-left: 1rem;
         font-size: 0.9rem;
         font-family: sans-serif;
         color: rgb(163, 162, 162);
